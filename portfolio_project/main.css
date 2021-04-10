@@ -1,0 +1,19 @@
+@media (max-width:768px) {  
+    #welcome_section{
+         height:100vw;
+    }
+
+    nav{
+    padding: 0;
+    margin:0;
+    display: block;
+    background-color: darkblue;
+}
+}
+
+nav{
+    padding: 0;
+    margin:0;
+    display: block;
+    background-color: darkblue;
+}
